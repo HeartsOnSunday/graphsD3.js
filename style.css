@@ -8,3 +8,8 @@
     stroke: black;
     stroke-width: 2px;
 }
+
+.node text {
+  pointer-events: none;
+  font: 10px sans-serif;
+}
